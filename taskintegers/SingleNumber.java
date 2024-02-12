@@ -1,4 +1,4 @@
-package Integers;
+package taskintegers;
 
 import java.util.HashSet;
 import java.util.Set;

@@ -1,4 +1,4 @@
-package Integers;
+package taskintegers;
 
 /*
  * Given an integer x retun true if is a palindrome, and otherwise false

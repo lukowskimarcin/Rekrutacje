@@ -1,4 +1,5 @@
-package Integers;
+package taskintegers;
+
 import java.util.ArrayList;
 import java.util.List;
 
